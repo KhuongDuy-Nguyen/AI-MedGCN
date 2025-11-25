@@ -80,10 +80,7 @@ Generate ROC curve, confusion matrix and classification report:
 python evaluation_nhanes.py
 ```
 
-Outputs saved in:
-
-- `images/`
-- `results/`
+Outputs saved in `results/`
 
 ---
 
