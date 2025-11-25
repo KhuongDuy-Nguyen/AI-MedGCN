@@ -2,7 +2,7 @@ import torch
 import torch.nn.functional as F
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc
-from preparedata_nhanes import load_nhanes_patient_graph
+from preparedata import load_nhanes_patient_graph
 from gcn_model import GCN
 
 # ===========================================================

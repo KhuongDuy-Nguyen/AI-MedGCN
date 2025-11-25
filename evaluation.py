@@ -2,7 +2,7 @@ import torch
 import torch.nn.functional as F
 from sklearn.metrics import classification_report, confusion_matrix, roc_auc_score
 
-from preparedata_nhanes import load_nhanes_patient_graph
+from preparedata import load_nhanes_patient_graph
 from gcn_model import GCN
 
 data_dir = "./data"

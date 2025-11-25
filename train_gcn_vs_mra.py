@@ -14,7 +14,7 @@ from sklearn.neighbors import NearestNeighbors
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from preparedata_nhanes import load_nhanes_patient_graph
+from preparedata import load_nhanes_patient_graph
 
 
 # ============================================================

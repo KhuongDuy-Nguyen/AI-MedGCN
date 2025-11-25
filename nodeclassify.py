@@ -1,4 +1,4 @@
-from preparedata_nhanes import load_nhanes_patient_graph
+from preparedata import load_nhanes_patient_graph
 
 data_dir = "../data"
 
