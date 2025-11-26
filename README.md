@@ -61,13 +61,13 @@ pip install -r requirements.txt
 Train GCN:
 
 ```
-python train_gcn_nhanes.py
+python train_gcn.py
 ```
 
 Train both models (GCN + MRA):
 
 ```
-python train_nhanes_gcn_vs_mra.py
+python train_gcn_vs_mra.py
 ```
 
 ---
